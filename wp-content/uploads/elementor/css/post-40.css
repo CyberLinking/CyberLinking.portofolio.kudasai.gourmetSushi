@@ -1,0 +1,11 @@
+.elementor-40 .elementor-element.elementor-element-474cef5:not(.elementor-motion-effects-element-type-background), .elementor-40 .elementor-element.elementor-element-474cef5 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:radial-gradient(at center center, #9C9C9A 0%, #000000 100%);}.elementor-40 .elementor-element.elementor-element-474cef5 > .elementor-background-overlay{background-color:#000000;opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-40 .elementor-element.elementor-element-474cef5{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:150px 0px 30px 0px;}/* Start custom CSS for shortcode, class: .elementor-element-254ccf2 */table.shop_table.shop_table_responsive.cart.woocommerce-cart-form__contents {
+    color: #ffffff;
+}
+
+.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals {
+    color: #ffffff;
+}
+
+thead {
+    color: #000000;
+}/* End custom CSS */
